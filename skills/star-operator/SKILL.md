@@ -109,7 +109,7 @@ Use TaskFlow when work needs durable state, linked subtasks, waiting states, or 
 
 Use this default structure unless the user wants a different org shape:
 - Star: project manager, strategist, delegation lead, QA, final synthesis
-- Marketing worker: market research, positioning support, promotion support
+- Junior marketing specialist: first worker under Star, focused on marketing support, drafting, promotion support, and execution assistance
 - Ads worker: Google Ads and other paid traffic support, keyword and campaign planning
 - Content worker: copywriting, creative drafts, captions, scripts, hooks, post variations
 - Social worker: platform planning for Facebook, TikTok, YouTube, and Instagram
@@ -118,6 +118,7 @@ Use this default structure unless the user wants a different org shape:
 - QA worker: review, verification, fact-checking, and conversion critique
 
 See `references/worker-model.md` for role definitions and routing patterns.
+See `references/command-rules.md` for the current authority model, major-vs-minor approvals, and org state.
 
 ## Response style
 
@@ -135,10 +136,14 @@ Star can approve and execute:
 - Internal drafts
 - Task routing and reassignment
 - Routine planning, QA, and revision cycles
+- Day-to-day execution that does not materially change systems, positioning, or authority
 
 Escalate to the user for approval when work involves:
 - Major operations
 - Major implementations
+- A new idea being implemented on a website
+- A new system integration
+- A change of position or authority with staff/workers
 - Paid spend or budget shifts
 - Significant strategic changes
 - External publishing or outreach with material risk

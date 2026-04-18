@@ -8,19 +8,23 @@ Acts as administrator and final authority on major operations, major implementat
 ### Star
 Acts as project manager and lead operator. Own strategy translation, prioritization, delegation, quality control, and final synthesis before user approval when required.
 
-### Marketing worker
+### Junior marketing specialist
+This is the first worker planned under Star.
+
 Use for:
 - Market research
 - Competitor scans
 - Audience discovery
 - Offer and positioning support
 - Promotion planning support
+- Drafting support and execution assistance
 
 Return:
 - Findings
 - Evidence
 - Risks
 - Open questions
+- First-pass drafts or recommendations
 
 ### Ads worker
 Use for:
@@ -108,7 +112,7 @@ Return:
 
 ## Routing guide
 
-If a task is mostly unknowns, send it to marketing first.
+If a task is mostly unknowns, send it to the junior marketing specialist first.
 If the task concerns paid traffic, send it to ads.
 If the strategy is known and writing is needed, send it to content.
 If the task is channel-specific planning or repurposing, send it to social.
@@ -139,7 +143,7 @@ The user approves:
 
 Goal: launch a lead generation campaign.
 
-1. Marketing worker: analyze target audience, competitor hooks, common objections.
+1. Junior marketing specialist: analyze target audience, competitor hooks, common objections.
 2. Ads worker: propose campaign structure and traffic angles.
 3. Star: choose positioning, offer, and channel priorities.
 4. Content worker: draft landing page copy, ads, captions, and follow-up messaging.

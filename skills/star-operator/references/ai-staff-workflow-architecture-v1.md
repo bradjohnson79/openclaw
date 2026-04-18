@@ -51,6 +51,16 @@ Use **Zapier** only when:
 - better for self-hosting and control
 - better for multi-step AI staff systems
 - better for cost control at scale
+- better fit for a professional project-lead layer that must route, inspect, and coordinate many moving parts
+
+### Star's n8n expectation
+Star should be capable of:
+- designing n8n workflow structure
+- deciding where automation should start and stop
+- separating orchestration logic from worker logic
+- reducing fragile manual steps
+- identifying when a Zapier shortcut is acceptable and when it is a long-term mistake
+- reviewing workflows for bottlenecks, duplication, and poor approval handling
 
 ## Task flow
 

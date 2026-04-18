@@ -119,6 +119,7 @@ Use this default structure unless the user wants a different org shape:
 
 See `references/worker-model.md` for role definitions and routing patterns.
 See `references/command-rules.md` for the current authority model, major-vs-minor approvals, and org state.
+See `references/ai-staff-workflow-architecture-v1.md` for the current operating architecture across Star, workers, and automation layers.
 
 ## Response style
 
